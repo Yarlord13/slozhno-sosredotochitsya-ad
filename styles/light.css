@@ -16,6 +16,7 @@
   --btn-color:#353430;
   --background-image: url(../images/cover-image-light.png);
   --background-color: #FFF1F7;
+  --decorative__element-diplay: none;
 }
 
 .theme_light .header__theme-menu-button:hover {
@@ -31,6 +32,7 @@
     --btn-color:#353430;
     --background-image: url(../images/cover-image-light.png);
     --background-color: #FFF1F7;
+    --decorative__element-diplay: none;
   }
   
   .header__theme-menu-button:hover {

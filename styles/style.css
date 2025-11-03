@@ -67,7 +67,7 @@
   top: 0;
   right: 0;
   content: "";
-  display: flex;
+  display: var(--decorative__element-diplay);
   align-items: center;
   gap: 10px;
   color: var(--btn-color);

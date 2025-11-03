@@ -16,6 +16,7 @@
   --btn-color:#FF0070;
   --background-image: url(../images/cover-image-dark.png);
   --background-color: #000028;
+  --decorative__element-diplay: flex;
 }
 
 .theme_dark .header__theme-menu-button:hover {
